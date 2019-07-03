@@ -24,6 +24,15 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.main h1 {
+    font-size: 36px;
+    color: #333;
+    text-align: left;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #eee;
+    font-family: "DSTypeJulesColossalBook" !important;
+}
+
 
 .icon-space:before {
   content: "\20";
