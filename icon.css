@@ -2,6 +2,14 @@
  * @file icon.css
  */
 
+
+ @font-face {
+  font-family: DSTypeJulesColossalBook;
+  src: url(DSTypeJulesColossalBook.woff2) format('woff2'), url(DSTypeJulesColossalBook.woff) format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
 @font-face {
     font-family: "DSTypeJulesColossalBook";
     src: url("DSTypeJulesColossalBook.eot"); /* IE9 */
